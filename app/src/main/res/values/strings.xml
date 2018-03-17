@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZeWord</string>
+    <string-array name="names">
+        <item> Seleciona o Continente </item>
+        <item> Africa</item>
+        <item> America</item>
+        <item> Asia</item>
+        <item> Europa</item>
+        <item> Oceania</item>
+    </string-array>
+
+    <string name="nomeP"> Nome do Pais</string>
+    <string name="capitalP"> Capital</string>
+</resources>
